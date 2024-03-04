@@ -1,6 +1,10 @@
 # Aural
 
-A small, efficient translator app built on modern web technologies.
+A small, lightweight translator app built on modern web technologies.
+
+## How to use
+
+We recommend installing this project directly via the binaries provided on our [release page](https://github.com/couscousdude/aural/releases) once the app is stable. If you would like to compile it yourself from source, follow the instructions below.
 
 ## Running in development
 
